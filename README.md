@@ -23,7 +23,7 @@ A versão 2 do sistema permite criar usuários, abrir contas, realizar depósito
 
 ## Tecnologias utilizadas
 
-- Linguagem: **Python 3.11+**
+- Linguagem: **Python**
 - Execução: Terminal (modo interativo)
 - Estrutura: Código 100% modularizado com funções
 
